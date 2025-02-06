@@ -1,0 +1,608 @@
+[
+    {
+        "name": "kuaishou-frontend-social-operation",
+        "instances": [
+            {
+                "path": "",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "element-ui",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/element-ui@2.15.14_vue@2.7.16/node_modules/element-ui",
+                "info": {
+                    "version": "2.15.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "normalize.css",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/normalize.css@7.0.0/node_modules/normalize.css",
+                "info": {
+                    "version": "7.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/vue@2.7.16/node_modules/vue",
+                "info": {
+                    "version": "2.7.16"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@babel/runtime",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.21.0/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.21.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.20.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "regenerator-runtime",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core-js",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/core-js@3.28.0/node_modules/core-js",
+                "info": {
+                    "version": "3.28.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/core-js@2.6.12/node_modules/core-js",
+                "info": {
+                    "version": "2.6.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-loader",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/vue-loader@15.10.2_5jrbvjr54pqlpbblkzlgzesqq4/node_modules/vue-loader",
+                "info": {
+                    "version": "15.10.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-rx",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/vue-rx@6.2.0_rxjs@6.6.7/node_modules/vue-rx",
+                "info": {
+                    "version": "6.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-router",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/vue-router@3.6.5_vue@2.7.16/node_modules/vue-router",
+                "info": {
+                    "version": "3.6.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "axios",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/axios@0.16.2/node_modules/axios",
+                "info": {
+                    "version": "0.16.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "moment",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/moment@2.30.1/node_modules/moment",
+                "info": {
+                    "version": "2.30.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/kmijs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@kmi+kmijs@1.4.0_stylus@0.61.0/node_modules/@kmi/kmijs",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/platform-ui",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks+platform-ui@0.1.88_vg5xxqif65qtvvpwiqoaf3ugg4/node_modules/@ks/platform-ui",
+                "info": {
+                    "version": "0.1.88"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/weblogger",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks+weblogger@3.10.35/node_modules/@ks/weblogger",
+                "info": {
+                    "version": "3.10.35"
+                }
+            }
+        ]
+    },
+    {
+        "name": "process",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/process@0.11.10/node_modules/process",
+                "info": {
+                    "version": "0.11.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "rxjs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/rxjs@6.6.7/node_modules/rxjs",
+                "info": {
+                    "version": "6.6.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-core",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-core@1.2.14_4gsh5yr2tdnzsqvhb522ddj4ru/node_modules/@ks-radar/radar-core",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-navigation-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-navigation-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-navigation-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-api-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-api-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-api-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-error-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-error-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-error-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-resource-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-resource-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-resource-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-event-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-event-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-event-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "stylus",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/stylus@0.59.0/node_modules/stylus",
+                "info": {
+                    "version": "0.59.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "deepmerge",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/deepmerge@1.5.2/node_modules/deepmerge",
+                "info": {
+                    "version": "1.5.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/renderer-vue2",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@kmi+renderer-vue2@1.4.0_vg5xxqif65qtvvpwiqoaf3ugg4/node_modules/@kmi/renderer-vue2",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "lodash",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/lodash@4.17.21/node_modules/lodash",
+                "info": {
+                    "version": "4.17.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "qs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/qs@6.11.2/node_modules/qs",
+                "info": {
+                    "version": "6.11.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "throttle-debounce",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/throttle-debounce@1.1.0/node_modules/throttle-debounce",
+                "info": {
+                    "version": "1.1.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "babel-helper-vue-jsx-merge-props",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/babel-helper-vue-jsx-merge-props@2.0.3/node_modules/babel-helper-vue-jsx-merge-props",
+                "info": {
+                    "version": "2.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-util",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-util@1.2.14/node_modules/@ks-radar/radar-util",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "is-buffer",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/is-buffer@1.1.6/node_modules/is-buffer",
+                "info": {
+                    "version": "1.1.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "normalize-wheel",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/normalize-wheel@1.0.1/node_modules/normalize-wheel",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tslib",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/tslib@1.14.1/node_modules/tslib",
+                "info": {
+                    "version": "1.14.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "resize-observer-polyfill",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/resize-observer-polyfill@1.5.1/node_modules/resize-observer-polyfill",
+                "info": {
+                    "version": "1.5.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "side-channel",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/side-channel@1.0.6/node_modules/side-channel",
+                "info": {
+                    "version": "1.0.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "css-loader",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/css-loader@6.7.1/node_modules/css-loader",
+                "info": {
+                    "version": "6.7.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "el-table-infinite-scroll",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/el-table-infinite-scroll@1.0.11/node_modules/el-table-infinite-scroll",
+                "info": {
+                    "version": "1.0.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "async-validator",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/async-validator@1.8.5/node_modules/async-validator",
+                "info": {
+                    "version": "1.8.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "call-bind",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/call-bind@1.0.7/node_modules/call-bind",
+                "info": {
+                    "version": "1.0.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-errors",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors",
+                "info": {
+                    "version": "1.3.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "get-intrinsic",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/get-intrinsic@1.2.4/node_modules/get-intrinsic",
+                "info": {
+                    "version": "1.2.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "object-inspect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/object-inspect@1.13.2/node_modules/object-inspect",
+                "info": {
+                    "version": "1.13.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "babel-runtime",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/babel-runtime@6.26.0/node_modules/babel-runtime",
+                "info": {
+                    "version": "6.26.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-symbols",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/has-symbols@1.0.3/node_modules/has-symbols",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-proto",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/has-proto@1.0.3/node_modules/has-proto",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "hasown",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/hasown@2.0.2/node_modules/hasown",
+                "info": {
+                    "version": "2.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "function-bind",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind",
+                "info": {
+                    "version": "1.1.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "sortablejs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/sortablejs@1.15.2/node_modules/sortablejs",
+                "info": {
+                    "version": "1.15.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "set-function-length",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/set-function-length@1.2.1/node_modules/set-function-length",
+                "info": {
+                    "version": "1.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-define-property",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/es-define-property@1.0.0/node_modules/es-define-property",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "define-data-property",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/define-data-property@1.1.4/node_modules/define-data-property",
+                "info": {
+                    "version": "1.1.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "gopd",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/gopd@1.0.1/node_modules/gopd",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-property-descriptors",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/has-property-descriptors@1.0.2/node_modules/has-property-descriptors",
+                "info": {
+                    "version": "1.0.2"
+                }
+            }
+        ]
+    }
+]

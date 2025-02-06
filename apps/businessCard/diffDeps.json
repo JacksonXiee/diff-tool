@@ -1,0 +1,16 @@
+{
+  "@ad/mui-mobile": "0.0.12(react-dom@16.12.0)(react@16.12.0) to 0.0.12",
+  "@ad/performance-cdn-image": "0.0.9(react-dom@16.12.0)(react@16.12.0) to 0.0.9",
+  "@ad/performance-lazyload-react": "0.0.4(react-dom@16.12.0)(react@16.12.0) to 0.0.4",
+  "@ad/sharpui": "0.0.71(@sharpui/icon@1.1.19)(intersection-observer@0.10.0)(react-dom@16.12.0)(react@16.12.0)(styled-components@5.2.1) to 0.0.71",
+  "@kmi/react": "1.4.1(@types/node@13.7.1)(react@16.12.0)(styled-components@5.2.1)(typescript@5.5.4) to 1.4.1",
+  "@ks/reku": "0.0.4(react-dom@16.12.0)(react@16.12.0) to 0.0.4",
+  "@ks/weblogger": "3.10.42(@yoda/bridge@2.0.13) to 3.10.42",
+  "@sharpui/icon": "1.1.19(react@16.12.0)(styled-components@5.2.1) to 1.1.19",
+  "react-dom": "16.12.0(react@16.12.0) to 16.12.0",
+  "react-error-boundary": "4.0.13(react@16.12.0) to 4.0.13",
+  "react-fastclick": "3.0.2(react@16.12.0) to 3.0.2",
+  "styled-components": "5.2.1(react-dom@16.12.0)(react-is@16.12.0)(react@16.12.0) to 5.2.1",
+  "@ad/eslint-config-ad": "2.0.0-rc.12(eslint@8.22.0)(prettier@2.7.1)(typescript@5.5.4) to 2.0.0-rc.12",
+  "@types/react": "16.14.51 to 16.9.23"
+}

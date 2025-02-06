@@ -1,0 +1,614 @@
+[
+    {
+        "name": "kuaishou-frontend-social-operation",
+        "instances": [
+            {
+                "path": "",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "element-ui",
+        "instances": [
+            {
+                "path": "node_modules/element-ui",
+                "info": {
+                    "version": "2.15.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "normalize.css",
+        "instances": [
+            {
+                "path": "node_modules/normalize.css",
+                "info": {
+                    "version": "7.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-loader",
+        "instances": [
+            {
+                "path": "node_modules/vue-loader",
+                "info": {
+                    "version": "15.10.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue",
+        "instances": [
+            {
+                "path": "node_modules/vue",
+                "info": {
+                    "version": "2.7.16"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@babel/runtime",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/babel-preset-vue2/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.21.0"
+                }
+            },
+            {
+                "path": "node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.20.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-rx",
+        "instances": [
+            {
+                "path": "node_modules/vue-rx",
+                "info": {
+                    "version": "6.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core-js",
+        "instances": [
+            {
+                "path": "node_modules/core-js",
+                "info": {
+                    "version": "3.28.0"
+                }
+            },
+            {
+                "path": "node_modules/el-table-infinite-scroll/node_modules/core-js",
+                "info": {
+                    "version": "2.6.12"
+                }
+            },
+            {
+                "path": "node_modules/babel-runtime/node_modules/core-js",
+                "info": {
+                    "version": "2.6.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/platform-ui",
+        "instances": [
+            {
+                "path": "node_modules/@ks/platform-ui",
+                "info": {
+                    "version": "0.1.88"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-router",
+        "instances": [
+            {
+                "path": "node_modules/vue-router",
+                "info": {
+                    "version": "3.6.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "regenerator-runtime",
+        "instances": [
+            {
+                "path": "node_modules/regenerator-runtime",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "axios",
+        "instances": [
+            {
+                "path": "node_modules/axios",
+                "info": {
+                    "version": "0.16.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "moment",
+        "instances": [
+            {
+                "path": "node_modules/moment",
+                "info": {
+                    "version": "2.30.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "rxjs",
+        "instances": [
+            {
+                "path": "node_modules/rxjs",
+                "info": {
+                    "version": "6.6.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "deepmerge",
+        "instances": [
+            {
+                "path": "node_modules/element-ui/node_modules/deepmerge",
+                "info": {
+                    "version": "1.5.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "process",
+        "instances": [
+            {
+                "path": "node_modules/process",
+                "info": {
+                    "version": "0.11.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/kmijs",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/kmijs",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tslib",
+        "instances": [
+            {
+                "path": "node_modules/rxjs/node_modules/tslib",
+                "info": {
+                    "version": "1.14.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/weblogger",
+        "instances": [
+            {
+                "path": "node_modules/@ks/weblogger",
+                "info": {
+                    "version": "3.10.35"
+                }
+            }
+        ]
+    },
+    {
+        "name": "lodash",
+        "instances": [
+            {
+                "path": "node_modules/lodash",
+                "info": {
+                    "version": "4.17.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-core",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-core",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-navigation-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-navigation-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-api-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-api-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-error-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-error-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-resource-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-resource-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-event-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-event-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "qs",
+        "instances": [
+            {
+                "path": "node_modules/qs",
+                "info": {
+                    "version": "6.11.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "is-buffer",
+        "instances": [
+            {
+                "path": "node_modules/is-buffer",
+                "info": {
+                    "version": "1.1.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "stylus",
+        "instances": [
+            {
+                "path": "node_modules/stylus",
+                "info": {
+                    "version": "0.61.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "throttle-debounce",
+        "instances": [
+            {
+                "path": "node_modules/throttle-debounce",
+                "info": {
+                    "version": "1.1.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "babel-helper-vue-jsx-merge-props",
+        "instances": [
+            {
+                "path": "node_modules/babel-helper-vue-jsx-merge-props",
+                "info": {
+                    "version": "2.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/renderer-vue2",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/renderer-vue2",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "normalize-wheel",
+        "instances": [
+            {
+                "path": "node_modules/normalize-wheel",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-util",
+        "instances": [
+            {
+                "path": "node_modules/@ksuni/kmi-plugin-monitor/node_modules/@ks-radar/radar-util",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "resize-observer-polyfill",
+        "instances": [
+            {
+                "path": "node_modules/resize-observer-polyfill",
+                "info": {
+                    "version": "1.5.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "side-channel",
+        "instances": [
+            {
+                "path": "node_modules/side-channel",
+                "info": {
+                    "version": "1.0.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "call-bind",
+        "instances": [
+            {
+                "path": "node_modules/call-bind",
+                "info": {
+                    "version": "1.0.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-errors",
+        "instances": [
+            {
+                "path": "node_modules/es-errors",
+                "info": {
+                    "version": "1.3.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "async-validator",
+        "instances": [
+            {
+                "path": "node_modules/async-validator",
+                "info": {
+                    "version": "1.8.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "get-intrinsic",
+        "instances": [
+            {
+                "path": "node_modules/get-intrinsic",
+                "info": {
+                    "version": "1.2.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "object-inspect",
+        "instances": [
+            {
+                "path": "node_modules/object-inspect",
+                "info": {
+                    "version": "1.13.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "el-table-infinite-scroll",
+        "instances": [
+            {
+                "path": "node_modules/el-table-infinite-scroll",
+                "info": {
+                    "version": "1.0.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "babel-runtime",
+        "instances": [
+            {
+                "path": "node_modules/babel-runtime",
+                "info": {
+                    "version": "6.26.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-symbols",
+        "instances": [
+            {
+                "path": "node_modules/has-symbols",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-proto",
+        "instances": [
+            {
+                "path": "node_modules/has-proto",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "hasown",
+        "instances": [
+            {
+                "path": "node_modules/hasown",
+                "info": {
+                    "version": "2.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "function-bind",
+        "instances": [
+            {
+                "path": "node_modules/function-bind",
+                "info": {
+                    "version": "1.1.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "sortablejs",
+        "instances": [
+            {
+                "path": "node_modules/sortablejs",
+                "info": {
+                    "version": "1.15.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "set-function-length",
+        "instances": [
+            {
+                "path": "node_modules/set-function-length",
+                "info": {
+                    "version": "1.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-define-property",
+        "instances": [
+            {
+                "path": "node_modules/es-define-property",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "define-data-property",
+        "instances": [
+            {
+                "path": "node_modules/define-data-property",
+                "info": {
+                    "version": "1.1.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-property-descriptors",
+        "instances": [
+            {
+                "path": "node_modules/has-property-descriptors",
+                "info": {
+                    "version": "1.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "gopd",
+        "instances": [
+            {
+                "path": "node_modules/gopd",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "css-loader",
+        "instances": [
+            {
+                "path": "node_modules/css-loader",
+                "info": {
+                    "version": "6.7.1"
+                }
+            }
+        ]
+    }
+]

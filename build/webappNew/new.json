@@ -1,0 +1,1245 @@
+[
+  {
+      "name": "kuaishou-frontend-ad-webapp-new",
+      "instances": [
+          {
+              "path": "",
+              "info": {
+                  "version": "0.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/webpack-plugin",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+webpack-plugin@1.20.1/node_modules/@sentry/webpack-plugin",
+              "info": {
+                  "version": "1.20.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "normalize.css",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/normalize.css@8.0.1/node_modules/normalize.css",
+              "info": {
+                  "version": "8.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "pinia",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/pinia@2.1.7_typescript@4.9.5+vue@3.3.7/node_modules/pinia",
+              "info": {
+                  "version": "2.1.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "pinia-plugin-persistedstate",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/pinia-plugin-persistedstate@2.4.0_pinia@2.1.7/node_modules/pinia-plugin-persistedstate",
+              "info": {
+                  "version": "2.4.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "vue",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/vue@3.3.7_typescript@4.9.5/node_modules/vue",
+              "info": {
+                  "version": "3.3.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@babel/runtime",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@babel+runtime@7.21.0/node_modules/@babel/runtime",
+              "info": {
+                  "version": "7.21.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime",
+              "info": {
+                  "version": "7.20.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/heat-map-seed",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+heat-map-seed@0.1.14/node_modules/@ad/heat-map-seed",
+              "info": {
+                  "version": "0.1.14"
+              }
+          }
+      ]
+  },
+  {
+      "name": "vant",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/vant@3.6.12_vue@3.3.7/node_modules/vant",
+              "info": {
+                  "version": "3.6.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@kmi/kmijs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@kmi+kmijs@1.4.3_37suxshw5hlmc2uhgrxqf7lbqq/node_modules/@kmi/kmijs",
+              "info": {
+                  "version": "1.4.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/browser",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+browser@5.30.0/node_modules/@sentry/browser",
+              "info": {
+                  "version": "5.30.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/integrations",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+integrations@6.19.7/node_modules/@sentry/integrations",
+              "info": {
+                  "version": "6.19.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "core-js",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/core-js@3.28.0/node_modules/core-js",
+              "info": {
+                  "version": "3.28.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "vue-router",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/vue-router@4.2.5_vue@3.3.7/node_modules/vue-router",
+              "info": {
+                  "version": "4.2.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "regenerator-runtime",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime",
+              "info": {
+                  "version": "0.13.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "vue-loader",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/vue-loader@17.0.0/node_modules/vue-loader",
+              "info": {
+                  "version": "17.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "moment",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/moment@2.29.4/node_modules/moment",
+              "info": {
+                  "version": "2.29.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "js-cookie",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/js-cookie@2.2.1/node_modules/js-cookie",
+              "info": {
+                  "version": "2.2.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/js-cookie@3.0.5/node_modules/js-cookie",
+              "info": {
+                  "version": "3.0.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/ad-front-trace",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+ad-front-trace@1.0.9/node_modules/@ad/ad-front-trace",
+              "info": {
+                  "version": "1.0.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "qs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/qs@6.11.2/node_modules/qs",
+              "info": {
+                  "version": "6.11.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@yoda/bridge",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@yoda+bridge@2.0.11/node_modules/@yoda/bridge",
+              "info": {
+                  "version": "2.0.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "tslib",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/tslib@1.14.1/node_modules/tslib",
+              "info": {
+                  "version": "1.14.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/tslib@2.7.0/node_modules/tslib",
+              "info": {
+                  "version": "2.7.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "vue-demi",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/vue-demi@0.14.10_vue@3.3.7/node_modules/vue-demi",
+              "info": {
+                  "version": "0.14.10"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/vue-demi@0.13.11_vue@3.3.7/node_modules/vue-demi",
+              "info": {
+                  "version": "0.13.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+core@5.30.0/node_modules/@sentry/core",
+              "info": {
+                  "version": "5.30.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/utils",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+utils@5.30.0/node_modules/@sentry/utils",
+              "info": {
+                  "version": "5.30.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@sentry+utils@6.19.7/node_modules/@sentry/utils",
+              "info": {
+                  "version": "6.19.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vue/runtime-dom",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vue+runtime-dom@3.3.7/node_modules/@vue/runtime-dom",
+              "info": {
+                  "version": "3.3.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vue/devtools-api",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vue+devtools-api@6.5.1/node_modules/@vue/devtools-api",
+              "info": {
+                  "version": "6.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@lux/sharp-ui-next",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@lux+sharp-ui-next@0.0.3-beta.23_typescript@4.9.5+vue@3.3.7/node_modules/@lux/sharp-ui-next",
+              "info": {
+                  "version": "0.0.3-beta.23"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash-es",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es",
+              "info": {
+                  "version": "4.17.21"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/types",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+types@5.30.0/node_modules/@sentry/types",
+              "info": {
+                  "version": "5.30.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@sentry+types@6.19.7/node_modules/@sentry/types",
+              "info": {
+                  "version": "6.19.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks/weblogger",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks+weblogger@3.10.35_@yoda+bridge@2.0.11/node_modules/@ks/weblogger",
+              "info": {
+                  "version": "3.10.35"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vant/use",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vant+use@1.6.0_vue@3.3.7/node_modules/@vant/use",
+              "info": {
+                  "version": "1.6.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "localforage",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/localforage@1.10.0/node_modules/localforage",
+              "info": {
+                  "version": "1.10.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-core@1.2.12_g7cfwbj7qzadmf5zm2yzjzo3jy/node_modules/@ks-radar/radar-core",
+              "info": {
+                  "version": "1.2.12"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-core",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-navigation-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-navigation-collect@1.2.12_i4hkw6kgurepuqdd35risywqwu/node_modules/@ks-radar/radar-navigation-collect",
+              "info": {
+                  "version": "1.2.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-api-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-api-collect@1.2.12_i4hkw6kgurepuqdd35risywqwu/node_modules/@ks-radar/radar-api-collect",
+              "info": {
+                  "version": "1.2.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-error-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-error-collect@1.2.12_i4hkw6kgurepuqdd35risywqwu/node_modules/@ks-radar/radar-error-collect",
+              "info": {
+                  "version": "1.2.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-resource-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-resource-collect@1.2.12_i4hkw6kgurepuqdd35risywqwu/node_modules/@ks-radar/radar-resource-collect",
+              "info": {
+                  "version": "1.2.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-event-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-event-collect@1.2.12_i4hkw6kgurepuqdd35risywqwu/node_modules/@ks-radar/radar-event-collect",
+              "info": {
+                  "version": "1.2.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "process",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/process@0.11.10/node_modules/process",
+              "info": {
+                  "version": "0.11.10"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/ad-jump-sdk",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+ad-jump-sdk@0.2.32-beta.0/node_modules/@ad/ad-jump-sdk",
+              "info": {
+                  "version": "0.2.32-beta.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "dayjs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs",
+              "info": {
+                  "version": "1.11.10"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/uc",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+uc@5.1.0/node_modules/@ad/uc",
+              "info": {
+                  "version": "5.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "clipboard",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/clipboard@2.0.11/node_modules/clipboard",
+              "info": {
+                  "version": "2.0.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "uuid",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/uuid@8.3.2/node_modules/uuid",
+              "info": {
+                  "version": "8.3.2"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/uuid@9.0.1/node_modules/uuid",
+              "info": {
+                  "version": "9.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/minimal",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+minimal@5.30.0/node_modules/@sentry/minimal",
+              "info": {
+                  "version": "5.30.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/hub",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+hub@5.30.0/node_modules/@sentry/hub",
+              "info": {
+                  "version": "5.30.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vue/runtime-core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vue+runtime-core@3.3.7/node_modules/@vue/runtime-core",
+              "info": {
+                  "version": "3.3.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vue/shared",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vue+shared@3.3.7/node_modules/@vue/shared",
+              "info": {
+                  "version": "3.3.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "side-channel",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/side-channel@1.0.6/node_modules/side-channel",
+              "info": {
+                  "version": "1.0.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "axios",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/axios@0.21.4/node_modules/axios",
+              "info": {
+                  "version": "0.21.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-util",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-util@1.2.12/node_modules/@ks-radar/radar-util",
+              "info": {
+                  "version": "1.2.12"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-util@1.2.9/node_modules/@ks-radar/radar-util",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-share/share-launch-app",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-share+share-launch-app@0.0.5-alpha.4_@ks+weblogger@3.10.35/node_modules/@ks-share/share-launch-app",
+              "info": {
+                  "version": "0.0.5-alpha.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@firefly/firefly-sdk",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@firefly+firefly-sdk@0.4.2/node_modules/@firefly/firefly-sdk",
+              "info": {
+                  "version": "0.4.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vue/reactivity",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vue+reactivity@3.3.7/node_modules/@vue/reactivity",
+              "info": {
+                  "version": "3.3.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/kcfe-vue3-components",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+kcfe-vue3-components@1.0.2-alpha.16_vue@3.3.7/node_modules/@ad/kcfe-vue3-components",
+              "info": {
+                  "version": "1.0.2-alpha.16"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@kid/sharpui",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@kid+sharpui@0.0.68/node_modules/@kid/sharpui",
+              "info": {
+                  "version": "0.0.68"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@better-scroll/core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@better-scroll+core@2.5.1/node_modules/@better-scroll/core",
+              "info": {
+                  "version": "2.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@better-scroll/pull-down",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@better-scroll+pull-down@2.5.1/node_modules/@better-scroll/pull-down",
+              "info": {
+                  "version": "2.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@better-scroll/pull-up",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@better-scroll+pull-up@2.5.1/node_modules/@better-scroll/pull-up",
+              "info": {
+                  "version": "2.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@better-scroll/wheel",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@better-scroll+wheel@2.5.1/node_modules/@better-scroll/wheel",
+              "info": {
+                  "version": "2.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "call-bind",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/call-bind@1.0.7/node_modules/call-bind",
+              "info": {
+                  "version": "1.0.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "es-errors",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors",
+              "info": {
+                  "version": "1.3.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "get-intrinsic",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/get-intrinsic@1.2.4/node_modules/get-intrinsic",
+              "info": {
+                  "version": "1.2.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "object-inspect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/object-inspect@1.13.2/node_modules/object-inspect",
+              "info": {
+                  "version": "1.13.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@mchart/mobile-vue",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@mchart+mobile-vue@0.1.11_vue@3.3.7/node_modules/@mchart/mobile-vue",
+              "info": {
+                  "version": "0.1.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "css-loader",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/css-loader@6.7.1/node_modules/css-loader",
+              "info": {
+                  "version": "6.7.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks/web-util",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks+web-util@2.1.21/node_modules/@ks/web-util",
+              "info": {
+                  "version": "2.1.21"
+              }
+          }
+      ]
+  },
+  {
+      "name": "url-polyfill",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/url-polyfill@1.1.12/node_modules/url-polyfill",
+              "info": {
+                  "version": "1.1.12"
+              }
+          }
+      ]
+  },
+  {
+      "name": "select",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/select@1.1.2/node_modules/select",
+              "info": {
+                  "version": "1.1.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-share/launch-app",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-share+launch-app@0.0.6-alpha.1/node_modules/@ks-share/launch-app",
+              "info": {
+                  "version": "0.0.6-alpha.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-share/launch-lib",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-share+launch-lib@0.0.5/node_modules/@ks-share/launch-lib",
+              "info": {
+                  "version": "0.0.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-share/share-log",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-share+share-log@0.0.7/node_modules/@ks-share/share-log",
+              "info": {
+                  "version": "0.0.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks/battle-sdk",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks+battle-sdk@0.0.6/node_modules/@ks/battle-sdk",
+              "info": {
+                  "version": "0.0.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-component-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-component-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-component-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-symbols",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-symbols@1.0.3/node_modules/has-symbols",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-proto",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-proto@1.0.3/node_modules/has-proto",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "hasown",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/hasown@2.0.2/node_modules/hasown",
+              "info": {
+                  "version": "2.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "function-bind",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind",
+              "info": {
+                  "version": "1.1.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "crypto-js",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js",
+              "info": {
+                  "version": "4.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@mchart/f2",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@mchart+f2@4.2.2/node_modules/@mchart/f2",
+              "info": {
+                  "version": "4.2.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "set-function-length",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/set-function-length@1.2.2/node_modules/set-function-length",
+              "info": {
+                  "version": "1.2.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "es-define-property",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/es-define-property@1.0.0/node_modules/es-define-property",
+              "info": {
+                  "version": "1.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@vant/popperjs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@vant+popperjs@1.3.0/node_modules/@vant/popperjs",
+              "info": {
+                  "version": "1.3.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "url-parse",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/url-parse@1.5.10/node_modules/url-parse",
+              "info": {
+                  "version": "1.5.10"
+              }
+          }
+      ]
+  },
+  {
+      "name": "tiny-emitter",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/tiny-emitter@2.1.0/node_modules/tiny-emitter",
+              "info": {
+                  "version": "2.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash.merge",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash.merge@4.6.2/node_modules/lodash.merge",
+              "info": {
+                  "version": "4.6.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "validate",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/validate@5.2.0/node_modules/validate",
+              "info": {
+                  "version": "5.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "intersection-observer",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/intersection-observer@0.12.2/node_modules/intersection-observer",
+              "info": {
+                  "version": "0.12.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "define-data-property",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/define-data-property@1.1.4/node_modules/define-data-property",
+              "info": {
+                  "version": "1.1.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-property-descriptors",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-property-descriptors@1.0.2/node_modules/has-property-descriptors",
+              "info": {
+                  "version": "1.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "gopd",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/gopd@1.0.1/node_modules/gopd",
+              "info": {
+                  "version": "1.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "requires-port",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/requires-port@1.0.0/node_modules/requires-port",
+              "info": {
+                  "version": "1.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "querystringify",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/querystringify@2.2.0/node_modules/querystringify",
+              "info": {
+                  "version": "2.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@eivifj/dot",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@eivifj+dot@1.0.3/node_modules/@eivifj/dot",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "typecast",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/typecast@0.0.1/node_modules/typecast",
+              "info": {
+                  "version": "0.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@antv/adjust",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@antv+adjust@0.1.1/node_modules/@antv/adjust",
+              "info": {
+                  "version": "0.1.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@antv/util",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@antv+util@2.0.17/node_modules/@antv/util",
+              "info": {
+                  "version": "2.0.17"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@antv+util@1.3.1/node_modules/@antv/util",
+              "info": {
+                  "version": "1.3.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "component-type",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/component-type@1.2.1/node_modules/component-type",
+              "info": {
+                  "version": "1.2.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash@4.17.21/node_modules/lodash",
+              "info": {
+                  "version": "4.17.21"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@antv/data-set",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@antv+data-set@0.10.2/node_modules/@antv/data-set",
+              "info": {
+                  "version": "0.10.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@antv/scale",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@antv+scale@0.3.18/node_modules/@antv/scale",
+              "info": {
+                  "version": "0.3.18"
+              }
+          }
+      ]
+  },
+  {
+      "name": "topojson",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/topojson@3.0.2/node_modules/topojson",
+              "info": {
+                  "version": "3.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "fecha",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/fecha@4.2.3/node_modules/fecha",
+              "info": {
+                  "version": "4.2.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "topojson-client",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/topojson-client@3.0.0/node_modules/topojson-client",
+              "info": {
+                  "version": "3.0.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/topojson-client@3.1.0/node_modules/topojson-client",
+              "info": {
+                  "version": "3.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "topojson-server",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/topojson-server@3.0.0/node_modules/topojson-server",
+              "info": {
+                  "version": "3.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "topojson-simplify",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/topojson-simplify@3.0.2/node_modules/topojson-simplify",
+              "info": {
+                  "version": "3.0.2"
+              }
+          }
+      ]
+  }
+]

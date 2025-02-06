@@ -1,0 +1,14 @@
+{
+  "@ad/kuaishou-ad-frontend-social-common": {
+    "specifier": "workspace:^1.0.4",
+    "version": "link:../../packages/socialCommon"
+  },
+  "@firefly/firefly-sdk-new": {
+    "specifier": "npm:@firefly/firefly-sdk@^1.0.2",
+    "version": "/@firefly/firefly-sdk@1.0.2"
+  },
+  "@kmi/preset-social-react": {
+    "specifier": "workspace:^1.0.0",
+    "version": "link:../../packages/kmi-preset-social-react"
+  }
+}

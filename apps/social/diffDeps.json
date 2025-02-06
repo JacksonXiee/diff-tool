@@ -1,0 +1,4 @@
+{
+  "@ad/kuaishou-ad-frontend-social-common": "link:../../packages/socialCommon to 1.0.4",
+  "moment": "2.30.1 to 2.29.4"
+}

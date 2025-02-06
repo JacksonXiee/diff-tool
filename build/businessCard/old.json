@@ -1,0 +1,698 @@
+[
+    {
+        "name": "kuaishou-frontend-business-card",
+        "instances": [
+            {
+                "path": "",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@babel/runtime",
+        "instances": [
+            {
+                "path": "node_modules/@umijs/babel-preset-umi/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.21.0"
+                }
+            },
+            {
+                "path": "node_modules/@ad/performance-cdn-image/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.23.6"
+                }
+            },
+            {
+                "path": "node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.20.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/sharpui",
+        "instances": [
+            {
+                "path": "node_modules/@ad/sharpui",
+                "info": {
+                    "version": "0.0.71"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react",
+        "instances": [
+            {
+                "path": "node_modules/react",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-dom",
+        "instances": [
+            {
+                "path": "node_modules/react-dom",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/mui-mobile",
+        "instances": [
+            {
+                "path": "node_modules/@ad/mui-mobile",
+                "info": {
+                    "version": "0.0.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@yoda/bridge",
+        "instances": [
+            {
+                "path": "node_modules/@yoda/bridge",
+                "info": {
+                    "version": "2.0.13"
+                }
+            }
+        ]
+    },
+    {
+        "name": "lodash-es",
+        "instances": [
+            {
+                "path": "node_modules/lodash-es",
+                "info": {
+                    "version": "4.17.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "moment",
+        "instances": [
+            {
+                "path": "node_modules/moment",
+                "info": {
+                    "version": "2.30.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core-js",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/preset-uni/node_modules/core-js",
+                "info": {
+                    "version": "3.28.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "swiper",
+        "instances": [
+            {
+                "path": "node_modules/swiper",
+                "info": {
+                    "version": "6.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "reset-css",
+        "instances": [
+            {
+                "path": "node_modules/reset-css",
+                "info": {
+                    "version": "5.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "regenerator-runtime",
+        "instances": [
+            {
+                "path": "node_modules/regenerator-runtime",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-fastclick",
+        "instances": [
+            {
+                "path": "node_modules/react-fastclick",
+                "info": {
+                    "version": "3.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "js-cookie",
+        "instances": [
+            {
+                "path": "node_modules/js-cookie",
+                "info": {
+                    "version": "2.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/ad-front-trace",
+        "instances": [
+            {
+                "path": "node_modules/@ad/ad-front-trace",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-cdn-image",
+        "instances": [
+            {
+                "path": "node_modules/@ad/performance-cdn-image",
+                "info": {
+                    "version": "0.0.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "intersection-observer",
+        "instances": [
+            {
+                "path": "node_modules/@ad/sharpui/node_modules/intersection-observer",
+                "info": {
+                    "version": "0.7.0"
+                }
+            },
+            {
+                "path": "node_modules/intersection-observer",
+                "info": {
+                    "version": "0.10.0"
+                }
+            },
+            {
+                "path": "node_modules/ahooks/node_modules/intersection-observer",
+                "info": {
+                    "version": "0.12.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tslib",
+        "instances": [
+            {
+                "path": "node_modules/tslib",
+                "info": {
+                    "version": "1.10.0"
+                }
+            },
+            {
+                "path": "node_modules/@ad/mui-mobile/node_modules/tslib",
+                "info": {
+                    "version": "2.6.2"
+                }
+            },
+            {
+                "path": "node_modules/ahooks/node_modules/tslib",
+                "info": {
+                    "version": "2.6.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-spring",
+        "instances": [
+            {
+                "path": "node_modules/react-spring",
+                "info": {
+                    "version": "8.0.27"
+                }
+            }
+        ]
+    },
+    {
+        "name": "dayjs",
+        "instances": [
+            {
+                "path": "node_modules/dayjs",
+                "info": {
+                    "version": "1.11.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "styled-components",
+        "instances": [
+            {
+                "path": "node_modules/styled-components",
+                "info": {
+                    "version": "5.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@sharpui/icon",
+        "instances": [
+            {
+                "path": "node_modules/@sharpui/icon",
+                "info": {
+                    "version": "1.1.19"
+                }
+            }
+        ]
+    },
+    {
+        "name": "axios",
+        "instances": [
+            {
+                "path": "node_modules/axios",
+                "info": {
+                    "version": "0.19.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "scheduler",
+        "instances": [
+            {
+                "path": "node_modules/scheduler",
+                "info": {
+                    "version": "0.18.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "object-assign",
+        "instances": [
+            {
+                "path": "node_modules/object-assign",
+                "info": {
+                    "version": "4.1.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/kmijs",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/kmijs",
+                "info": {
+                    "version": "1.4.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-error-boundary",
+        "instances": [
+            {
+                "path": "node_modules/react-error-boundary",
+                "info": {
+                    "version": "4.0.13"
+                }
+            }
+        ]
+    },
+    {
+        "name": "uuid",
+        "instances": [
+            {
+                "path": "node_modules/@ad/ad-front-trace/node_modules/uuid",
+                "info": {
+                    "version": "8.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "classnames",
+        "instances": [
+            {
+                "path": "node_modules/classnames",
+                "info": {
+                    "version": "2.3.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "ahooks",
+        "instances": [
+            {
+                "path": "node_modules/ahooks",
+                "info": {
+                    "version": "3.7.8"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-lazyload-react",
+        "instances": [
+            {
+                "path": "node_modules/@ad/performance-lazyload-react",
+                "info": {
+                    "version": "0.0.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-is",
+        "instances": [
+            {
+                "path": "node_modules/react-is",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "shallowequal",
+        "instances": [
+            {
+                "path": "node_modules/shallowequal",
+                "info": {
+                    "version": "1.1.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "process",
+        "instances": [
+            {
+                "path": "node_modules/process",
+                "info": {
+                    "version": "0.11.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "hoist-non-react-statics",
+        "instances": [
+            {
+                "path": "node_modules/hoist-non-react-statics",
+                "info": {
+                    "version": "3.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/stylis",
+        "instances": [
+            {
+                "path": "node_modules/@emotion/stylis",
+                "info": {
+                    "version": "0.8.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/unitless",
+        "instances": [
+            {
+                "path": "node_modules/@emotion/unitless",
+                "info": {
+                    "version": "0.7.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/is-prop-valid",
+        "instances": [
+            {
+                "path": "node_modules/@emotion/is-prop-valid",
+                "info": {
+                    "version": "0.8.8"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/web",
+        "instances": [
+            {
+                "path": "node_modules/@react-spring/web",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/weblogger",
+        "instances": [
+            {
+                "path": "node_modules/@ks/weblogger",
+                "info": {
+                    "version": "3.10.42"
+                }
+            }
+        ]
+    },
+    {
+        "name": "ssr-window",
+        "instances": [
+            {
+                "path": "node_modules/ssr-window",
+                "info": {
+                    "version": "3.0.0-alpha.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-core",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-core",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-navigation-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-navigation-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-api-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-api-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-error-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-error-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-resource-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-resource-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-event-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-event-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/memoize",
+        "instances": [
+            {
+                "path": "node_modules/@emotion/memoize",
+                "info": {
+                    "version": "0.7.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/core",
+        "instances": [
+            {
+                "path": "node_modules/@react-spring/core",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/shared",
+        "instances": [
+            {
+                "path": "node_modules/@react-spring/shared",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/animated",
+        "instances": [
+            {
+                "path": "node_modules/@react-spring/animated",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "dom7",
+        "instances": [
+            {
+                "path": "node_modules/dom7",
+                "info": {
+                    "version": "3.0.0-alpha.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "css-loader",
+        "instances": [
+            {
+                "path": "node_modules/css-loader",
+                "info": {
+                    "version": "6.7.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-util",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-util",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "screenfull",
+        "instances": [
+            {
+                "path": "node_modules/screenfull",
+                "info": {
+                    "version": "5.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-lazyload-shared",
+        "instances": [
+            {
+                "path": "node_modules/@ad/performance-lazyload-shared",
+                "info": {
+                    "version": "0.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "resize-observer-polyfill",
+        "instances": [
+            {
+                "path": "node_modules/resize-observer-polyfill",
+                "info": {
+                    "version": "1.5.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/types",
+        "instances": [
+            {
+                "path": "node_modules/@react-spring/types",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-use-gesture",
+        "instances": [
+            {
+                "path": "node_modules/react-use-gesture",
+                "info": {
+                    "version": "5.2.4"
+                }
+            }
+        ]
+    }
+]

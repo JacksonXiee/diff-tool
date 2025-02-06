@@ -1,0 +1,1726 @@
+[
+  {
+      "name": "kuaishou-frontend-ad-social-agent-react",
+      "instances": [
+          {
+              "path": "",
+              "info": {
+                  "version": "1.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "moment",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/moment@2.27.0/node_modules/moment",
+              "info": {
+                  "version": "2.27.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/moment@2.30.1/node_modules/moment",
+              "info": {
+                  "version": "2.30.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "m-ui",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/m-ui@1.10.8_5owmthsvj5ictknaj3ev736ofq/node_modules/m-ui",
+              "info": {
+                  "version": "1.10.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react-router-dom",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react-router-dom@5.2.0_react@16.13.1/node_modules/react-router-dom",
+              "info": {
+                  "version": "5.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@babel/runtime",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@babel+runtime@7.21.0/node_modules/@babel/runtime",
+              "info": {
+                  "version": "7.21.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@babel+runtime@7.24.0/node_modules/@babel/runtime",
+              "info": {
+                  "version": "7.24.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime",
+              "info": {
+                  "version": "7.20.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react@16.13.1/node_modules/react",
+              "info": {
+                  "version": "16.13.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react-dom",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react-dom@16.13.1_react@16.13.1/node_modules/react-dom",
+              "info": {
+                  "version": "16.13.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "axios",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/axios@0.21.1/node_modules/axios",
+              "info": {
+                  "version": "0.21.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash.debounce",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash.debounce@4.0.8/node_modules/lodash.debounce",
+              "info": {
+                  "version": "4.0.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "core-js",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/core-js@3.28.0/node_modules/core-js",
+              "info": {
+                  "version": "3.28.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@kmi/kmijs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@kmi+kmijs@1.4.0_ijpqsm6d7bdcu2z7rqzras7vmq/node_modules/@kmi/kmijs",
+              "info": {
+                  "version": "1.4.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "regenerator-runtime",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime",
+              "info": {
+                  "version": "0.13.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks/sso",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks+sso@2.2.0/node_modules/@ks/sso",
+              "info": {
+                  "version": "2.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash-es",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash-es@4.17.15/node_modules/lodash-es",
+              "info": {
+                  "version": "4.17.15"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-util",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-util@5.15.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-util",
+              "info": {
+                  "version": "5.15.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-util@5.42.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-util",
+              "info": {
+                  "version": "5.42.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@m-ui/icons",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+icons@2.5.3_5owmthsvj5ictknaj3ev736ofq/node_modules/@m-ui/icons",
+              "info": {
+                  "version": "2.5.3"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+icons@1.1.0_5owmthsvj5ictknaj3ev736ofq/node_modules/@m-ui/icons",
+              "info": {
+                  "version": "1.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash@4.17.21/node_modules/lodash",
+              "info": {
+                  "version": "4.17.21"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-pagination",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-pagination@3.1.13_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-pagination",
+              "info": {
+                  "version": "3.1.13"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ant-design/icons",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ant-design+icons@4.4.0_5owmthsvj5ictknaj3ev736ofq/node_modules/@ant-design/icons",
+              "info": {
+                  "version": "4.4.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react-error-boundary",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react-error-boundary@4.0.13_react@16.13.1/node_modules/react-error-boundary",
+              "info": {
+                  "version": "4.0.13"
+              }
+          }
+      ]
+  },
+  {
+      "name": "classnames",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/classnames@2.5.1/node_modules/classnames",
+              "info": {
+                  "version": "2.5.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/classnames@2.2.6/node_modules/classnames",
+              "info": {
+                  "version": "2.2.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "prop-types",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/prop-types@15.7.2/node_modules/prop-types",
+              "info": {
+                  "version": "15.7.2"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types",
+              "info": {
+                  "version": "15.8.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react-router",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react-router@5.2.0_react@16.13.1/node_modules/react-router",
+              "info": {
+                  "version": "5.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "history",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/history@4.10.1/node_modules/history",
+              "info": {
+                  "version": "4.10.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "tiny-warning",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/tiny-warning@1.0.3/node_modules/tiny-warning",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "tiny-invariant",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/tiny-invariant@1.1.0/node_modules/tiny-invariant",
+              "info": {
+                  "version": "1.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-field-form",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-field-form@1.20.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-field-form",
+              "info": {
+                  "version": "1.20.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-field-form@1.27.4_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-field-form",
+              "info": {
+                  "version": "1.27.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-notification",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-notification@4.5.7_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-notification",
+              "info": {
+                  "version": "4.5.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-picker",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-picker@2.5.19_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-picker",
+              "info": {
+                  "version": "2.5.19"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks/weblogger",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks+weblogger@3.10.35/node_modules/@ks/weblogger",
+              "info": {
+                  "version": "3.10.35"
+              }
+          }
+      ]
+  },
+  {
+      "name": "qs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/qs@6.11.2/node_modules/qs",
+              "info": {
+                  "version": "6.11.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-core",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-navigation-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-navigation-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-navigation-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-api-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-api-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-api-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-error-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-error-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-error-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-resource-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-resource-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-resource-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-event-collect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-event-collect@1.2.9_@ks-radar+radar-core@1.2.9/node_modules/@ks-radar/radar-event-collect",
+              "info": {
+                  "version": "1.2.9"
+              }
+          }
+      ]
+  },
+  {
+      "name": "process",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/process@0.11.10/node_modules/process",
+              "info": {
+                  "version": "0.11.10"
+              }
+          }
+      ]
+  },
+  {
+      "name": "object-assign",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign",
+              "info": {
+                  "version": "4.1.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/kcfe-service-matrix",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+kcfe-service-matrix@0.1.8-beta.0_5owmthsvj5ictknaj3ev736ofq/node_modules/@ad/kcfe-service-matrix",
+              "info": {
+                  "version": "0.1.8-beta.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "scheduler",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/scheduler@0.19.1/node_modules/scheduler",
+              "info": {
+                  "version": "0.19.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "styled-components",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/styled-components@4.4.1_5owmthsvj5ictknaj3ev736ofq/node_modules/styled-components",
+              "info": {
+                  "version": "4.4.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "js-cookie",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/js-cookie@2.2.1/node_modules/js-cookie",
+              "info": {
+                  "version": "2.2.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "path-to-regexp",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/path-to-regexp@1.8.0/node_modules/path-to-regexp",
+              "info": {
+                  "version": "1.8.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "react-is",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/react-is@16.13.1/node_modules/react-is",
+              "info": {
+                  "version": "16.13.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/react-is@18.3.1/node_modules/react-is",
+              "info": {
+                  "version": "18.3.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "resolve-pathname",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/resolve-pathname@3.0.0/node_modules/resolve-pathname",
+              "info": {
+                  "version": "3.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "value-equal",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/value-equal@1.0.1/node_modules/value-equal",
+              "info": {
+                  "version": "1.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "hoist-non-react-statics",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/hoist-non-react-statics@3.3.2/node_modules/hoist-non-react-statics",
+              "info": {
+                  "version": "3.3.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "mini-create-react-context",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/mini-create-react-context@0.4.0_n5kbqkfd3b4z25eog47bcgxhka/node_modules/mini-create-react-context",
+              "info": {
+                  "version": "0.4.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/ad-front-trace",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+ad-front-trace@1.0.6/node_modules/@ad/ad-front-trace",
+              "info": {
+                  "version": "1.0.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-dialog",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-dialog@8.5.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-dialog",
+              "info": {
+                  "version": "8.5.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-dialog@8.6.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-dialog",
+              "info": {
+                  "version": "8.6.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-tooltip",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-tooltip@5.1.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tooltip",
+              "info": {
+                  "version": "5.1.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@kspay/gateway",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@kspay+gateway@2.2.5/node_modules/@kspay/gateway",
+              "info": {
+                  "version": "2.2.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "ahooks",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/ahooks@2.3.0_react@16.13.1/node_modules/ahooks",
+              "info": {
+                  "version": "2.3.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@m-ui/icons-svg",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+icons-svg@2.5.3/node_modules/@m-ui/icons-svg",
+              "info": {
+                  "version": "2.5.3"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+icons-svg@1.1.0/node_modules/@m-ui/icons-svg",
+              "info": {
+                  "version": "1.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ks-radar/radar-util",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ks-radar+radar-util@1.2.8/node_modules/@ks-radar/radar-util",
+              "info": {
+                  "version": "1.2.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-table",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-table@7.15.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-table",
+              "info": {
+                  "version": "7.15.2"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-table@7.23.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-table",
+              "info": {
+                  "version": "7.23.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ad/ad-jump-sdk",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ad+ad-jump-sdk@0.2.32-beta.0/node_modules/@ad/ad-jump-sdk",
+              "info": {
+                  "version": "0.2.32-beta.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@ad+ad-jump-sdk@0.2.33-beta.8/node_modules/@ad/ad-jump-sdk",
+              "info": {
+                  "version": "0.2.33-beta.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-motion",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-motion@2.4.4_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-motion",
+              "info": {
+                  "version": "2.4.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "stylis",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/stylis@3.5.4/node_modules/stylis",
+              "info": {
+                  "version": "3.5.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "magnet-cluster-common",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/magnet-cluster-common@0.1.4/node_modules/magnet-cluster-common",
+              "info": {
+                  "version": "0.1.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "stylis-rule-sheet",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/stylis-rule-sheet@0.0.10_stylis@3.5.4/node_modules/stylis-rule-sheet",
+              "info": {
+                  "version": "0.0.10"
+              }
+          }
+      ]
+  },
+  {
+      "name": "memoize-one",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/memoize-one@5.1.1/node_modules/memoize-one",
+              "info": {
+                  "version": "5.1.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/memoize-one@6.0.0/node_modules/memoize-one",
+              "info": {
+                  "version": "6.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "merge-anything",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/merge-anything@2.4.4/node_modules/merge-anything",
+              "info": {
+                  "version": "2.4.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-textarea",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-textarea@0.3.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-textarea",
+              "info": {
+                  "version": "0.3.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-textarea@0.4.7_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-textarea",
+              "info": {
+                  "version": "0.4.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@emotion/is-prop-valid",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@emotion+is-prop-valid@0.8.8/node_modules/@emotion/is-prop-valid",
+              "info": {
+                  "version": "0.8.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@emotion/unitless",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@emotion+unitless@0.7.5/node_modules/@emotion/unitless",
+              "info": {
+                  "version": "0.7.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@m-ui/rc-select",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+rc-select@12.1.6_5owmthsvj5ictknaj3ev736ofq/node_modules/@m-ui/rc-select",
+              "info": {
+                  "version": "12.1.6"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+rc-select@13.2.2_5owmthsvj5ictknaj3ev736ofq/node_modules/@m-ui/rc-select",
+              "info": {
+                  "version": "13.2.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "isarray",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/isarray@0.0.1/node_modules/isarray",
+              "info": {
+                  "version": "0.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-input-number",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-input-number@7.1.4_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-input-number",
+              "info": {
+                  "version": "7.1.4"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-input-number@7.3.11_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-input-number",
+              "info": {
+                  "version": "7.3.11"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-tabs",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-tabs@11.10.3_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tabs",
+              "info": {
+                  "version": "11.10.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "side-channel",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/side-channel@1.0.6/node_modules/side-channel",
+              "info": {
+                  "version": "1.0.6"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-steps",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-steps@4.1.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-steps",
+              "info": {
+                  "version": "4.1.2"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-steps@4.1.3_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-steps",
+              "info": {
+                  "version": "4.1.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "insert-css",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/insert-css@2.0.0/node_modules/insert-css",
+              "info": {
+                  "version": "2.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ant-design/colors",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ant-design+colors@5.0.1/node_modules/@ant-design/colors",
+              "info": {
+                  "version": "5.0.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/@ant-design+colors@6.0.0/node_modules/@ant-design/colors",
+              "info": {
+                  "version": "6.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-menu",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-menu@9.0.14_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-menu",
+              "info": {
+                  "version": "9.0.14"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-menu@9.8.4_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-menu",
+              "info": {
+                  "version": "9.8.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-drawer",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-drawer@4.3.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-drawer",
+              "info": {
+                  "version": "4.3.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-drawer@4.4.3_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-drawer",
+              "info": {
+                  "version": "4.4.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "async-validator",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/async-validator@3.4.0/node_modules/async-validator",
+              "info": {
+                  "version": "3.4.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/async-validator@4.2.5/node_modules/async-validator",
+              "info": {
+                  "version": "4.2.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "uuid",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/uuid@8.3.2/node_modules/uuid",
+              "info": {
+                  "version": "8.3.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ahooksjs/use-request",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ahooksjs+use-request@2.8.15_react@16.13.1/node_modules/@ahooksjs/use-request",
+              "info": {
+                  "version": "2.8.15"
+              }
+          }
+      ]
+  },
+  {
+      "name": "css-loader",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/css-loader@6.7.1/node_modules/css-loader",
+              "info": {
+                  "version": "6.7.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ant-design/icons-svg",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ant-design+icons-svg@4.1.0/node_modules/@ant-design/icons-svg",
+              "info": {
+                  "version": "4.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-tree",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-tree@4.2.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tree",
+              "info": {
+                  "version": "4.2.2"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-tree@5.6.9_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tree",
+              "info": {
+                  "version": "5.6.9"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-tree@5.3.8_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tree",
+              "info": {
+                  "version": "5.3.8"
+              }
+          }
+      ]
+  },
+  {
+      "name": "scroll-into-view-if-needed",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/scroll-into-view-if-needed@2.2.25/node_modules/scroll-into-view-if-needed",
+              "info": {
+                  "version": "2.2.25"
+              }
+          }
+      ]
+  },
+  {
+      "name": "shallowequal",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/shallowequal@1.1.0/node_modules/shallowequal",
+              "info": {
+                  "version": "1.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-checkbox",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-checkbox@2.3.1/node_modules/rc-checkbox",
+              "info": {
+                  "version": "2.3.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-resize-observer",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-resize-observer@1.4.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-resize-observer",
+              "info": {
+                  "version": "1.4.0"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-resize-observer@1.0.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-resize-observer",
+              "info": {
+                  "version": "1.0.1"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-resize-observer@0.2.3_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-resize-observer",
+              "info": {
+                  "version": "0.2.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@firefly/firefly-sdk",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@firefly+firefly-sdk@0.4.2/node_modules/@firefly/firefly-sdk",
+              "info": {
+                  "version": "0.4.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "call-bind",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/call-bind@1.0.7/node_modules/call-bind",
+              "info": {
+                  "version": "1.0.7"
+              }
+          }
+      ]
+  },
+  {
+      "name": "es-errors",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/es-errors@1.3.0/node_modules/es-errors",
+              "info": {
+                  "version": "1.3.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/browser",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+browser@6.18.1/node_modules/@sentry/browser",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "is-what",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/is-what@3.14.1/node_modules/is-what",
+              "info": {
+                  "version": "3.14.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-dropdown",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-dropdown@3.2.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-dropdown",
+              "info": {
+                  "version": "3.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-trigger",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-trigger@5.3.4_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-trigger",
+              "info": {
+                  "version": "5.3.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "get-intrinsic",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/get-intrinsic@1.2.4/node_modules/get-intrinsic",
+              "info": {
+                  "version": "1.2.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "object-inspect",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/object-inspect@1.13.1/node_modules/object-inspect",
+              "info": {
+                  "version": "1.13.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@emotion/memoize",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@emotion+memoize@0.7.4/node_modules/@emotion/memoize",
+              "info": {
+                  "version": "0.7.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "resize-observer-polyfill",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/resize-observer-polyfill@1.5.1/node_modules/resize-observer-polyfill",
+              "info": {
+                  "version": "1.5.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "lodash.throttle",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/lodash.throttle@4.1.1/node_modules/lodash.throttle",
+              "info": {
+                  "version": "4.1.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "screenfull",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/screenfull@5.0.2/node_modules/screenfull",
+              "info": {
+                  "version": "5.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "intersection-observer",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/intersection-observer@0.7.0/node_modules/intersection-observer",
+              "info": {
+                  "version": "0.7.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ctrl/tinycolor",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ctrl+tinycolor@3.4.0/node_modules/@ctrl/tinycolor",
+              "info": {
+                  "version": "3.4.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@m-ui/react",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@m-ui+react@1.12.3_5owmthsvj5ictknaj3ev736ofq/node_modules/@m-ui/react",
+              "info": {
+                  "version": "1.12.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "omit.js",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/omit.js@2.0.2/node_modules/omit.js",
+              "info": {
+                  "version": "2.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "compute-scroll-into-view",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/compute-scroll-into-view@1.0.14/node_modules/compute-scroll-into-view",
+              "info": {
+                  "version": "1.0.14"
+              }
+          }
+      ]
+  },
+  {
+      "name": "tslib",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/tslib@1.13.0/node_modules/tslib",
+              "info": {
+                  "version": "1.13.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/core",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+core@6.18.1/node_modules/@sentry/core",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/utils",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+utils@6.18.1/node_modules/@sentry/utils",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-symbols",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-symbols@1.0.3/node_modules/has-symbols",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-proto",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-proto@1.0.3/node_modules/has-proto",
+              "info": {
+                  "version": "1.0.3"
+              }
+          }
+      ]
+  },
+  {
+      "name": "hasown",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/hasown@2.0.2/node_modules/hasown",
+              "info": {
+                  "version": "2.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "function-bind",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/function-bind@1.1.2/node_modules/function-bind",
+              "info": {
+                  "version": "1.1.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-overflow",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-overflow@1.3.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-overflow",
+              "info": {
+                  "version": "1.3.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "crypto-js",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/crypto-js@4.2.0/node_modules/crypto-js",
+              "info": {
+                  "version": "4.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-virtual-list",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-virtual-list@3.14.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-virtual-list",
+              "info": {
+                  "version": "3.14.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "set-function-length",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/set-function-length@1.2.2/node_modules/set-function-length",
+              "info": {
+                  "version": "1.2.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "es-define-property",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/es-define-property@1.0.0/node_modules/es-define-property",
+              "info": {
+                  "version": "1.0.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/types",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+types@6.18.1/node_modules/@sentry/types",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-progress",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-progress@3.1.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-progress",
+              "info": {
+                  "version": "3.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/minimal",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+minimal@6.18.1/node_modules/@sentry/minimal",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@sentry/hub",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@sentry+hub@6.18.1/node_modules/@sentry/hub",
+              "info": {
+                  "version": "6.18.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-cascader",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-cascader@3.6.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-cascader",
+              "info": {
+                  "version": "3.6.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "@ant-design/react-slick",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/@ant-design+react-slick@0.28.1_react@16.13.1/node_modules/@ant-design/react-slick",
+              "info": {
+                  "version": "0.28.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-image",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-image@5.2.5_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-image",
+              "info": {
+                  "version": "5.2.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-mentions",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-mentions@1.6.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-mentions",
+              "info": {
+                  "version": "1.6.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-rate",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-rate@2.9.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-rate",
+              "info": {
+                  "version": "2.9.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-slider",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-slider@9.7.5_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-slider",
+              "info": {
+                  "version": "9.7.5"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-switch",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-switch@3.2.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-switch",
+              "info": {
+                  "version": "3.2.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-tree-select",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-tree-select@4.8.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-tree-select",
+              "info": {
+                  "version": "4.8.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-align",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-align@4.0.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-align",
+              "info": {
+                  "version": "4.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "define-data-property",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/define-data-property@1.1.4/node_modules/define-data-property",
+              "info": {
+                  "version": "1.1.4"
+              }
+          }
+      ]
+  },
+  {
+      "name": "has-property-descriptors",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/has-property-descriptors@1.0.2/node_modules/has-property-descriptors",
+              "info": {
+                  "version": "1.0.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "gopd",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/gopd@1.0.1/node_modules/gopd",
+              "info": {
+                  "version": "1.0.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-collapse",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-collapse@3.1.0_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-collapse",
+              "info": {
+                  "version": "3.1.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "goober",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/goober@2.0.43/node_modules/goober",
+              "info": {
+                  "version": "2.0.43"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-upload",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-upload@4.3.2_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-upload",
+              "info": {
+                  "version": "4.3.2"
+              }
+          }
+      ]
+  },
+  {
+      "name": "rc-select",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/rc-select@14.1.18_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-select",
+              "info": {
+                  "version": "14.1.18"
+              }
+          },
+          {
+              "path": "../../node_modules/.pnpm/rc-select@13.2.1_5owmthsvj5ictknaj3ev736ofq/node_modules/rc-select",
+              "info": {
+                  "version": "13.2.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "json2mq",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/json2mq@0.2.0/node_modules/json2mq",
+              "info": {
+                  "version": "0.2.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "copy-to-clipboard",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/copy-to-clipboard@3.3.1/node_modules/copy-to-clipboard",
+              "info": {
+                  "version": "3.3.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "dom-align",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/dom-align@1.12.0/node_modules/dom-align",
+              "info": {
+                  "version": "1.12.0"
+              }
+          }
+      ]
+  },
+  {
+      "name": "string-convert",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/string-convert@0.2.1/node_modules/string-convert",
+              "info": {
+                  "version": "0.2.1"
+              }
+          }
+      ]
+  },
+  {
+      "name": "toggle-selection",
+      "instances": [
+          {
+              "path": "../../node_modules/.pnpm/toggle-selection@1.0.6/node_modules/toggle-selection",
+              "info": {
+                  "version": "1.0.6"
+              }
+          }
+      ]
+  }
+]

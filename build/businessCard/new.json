@@ -1,0 +1,704 @@
+[
+    {
+        "name": "kuaishou-frontend-business-card",
+        "instances": [
+            {
+                "path": "",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@babel/runtime",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.21.0/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.21.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.23.6"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.25.0/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.25.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.24.0/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.24.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/@babel+runtime@7.20.6/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.20.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react@16.12.0/node_modules/react",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-dom",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-dom@16.12.0_react@16.12.0/node_modules/react-dom",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/sharpui",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+sharpui@0.0.71_hfeze2mj3vfiumv2hpx4t3pa3u/node_modules/@ad/sharpui",
+                "info": {
+                    "version": "0.0.71"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/mui-mobile",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+mui-mobile@0.0.12_7lre6svei6ldbsvkukunzkfmqi/node_modules/@ad/mui-mobile",
+                "info": {
+                    "version": "0.0.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "lodash-es",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/lodash-es@4.17.21/node_modules/lodash-es",
+                "info": {
+                    "version": "4.17.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@yoda/bridge",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@yoda+bridge@2.0.13/node_modules/@yoda/bridge",
+                "info": {
+                    "version": "2.0.13"
+                }
+            }
+        ]
+    },
+    {
+        "name": "moment",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/moment@2.30.1/node_modules/moment",
+                "info": {
+                    "version": "2.30.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "reset-css",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/reset-css@5.0.1/node_modules/reset-css",
+                "info": {
+                    "version": "5.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-fastclick",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-fastclick@3.0.2_react@16.12.0/node_modules/react-fastclick",
+                "info": {
+                    "version": "3.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core-js",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/core-js@3.28.0/node_modules/core-js",
+                "info": {
+                    "version": "3.28.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-cdn-image",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+performance-cdn-image@0.0.9_7lre6svei6ldbsvkukunzkfmqi/node_modules/@ad/performance-cdn-image",
+                "info": {
+                    "version": "0.0.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "swiper",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/swiper@6.2.0/node_modules/swiper",
+                "info": {
+                    "version": "6.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "regenerator-runtime",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/regenerator-runtime@0.13.11/node_modules/regenerator-runtime",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "js-cookie",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/js-cookie@2.2.1/node_modules/js-cookie",
+                "info": {
+                    "version": "2.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/ad-front-trace",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+ad-front-trace@1.0.3/node_modules/@ad/ad-front-trace",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "dayjs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/dayjs@1.11.9/node_modules/dayjs",
+                "info": {
+                    "version": "1.11.9"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/dayjs@1.11.12/node_modules/dayjs",
+                "info": {
+                    "version": "1.11.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-spring",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-spring@8.0.27_7lre6svei6ldbsvkukunzkfmqi/node_modules/react-spring",
+                "info": {
+                    "version": "8.0.27"
+                }
+            }
+        ]
+    },
+    {
+        "name": "intersection-observer",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/intersection-observer@0.10.0/node_modules/intersection-observer",
+                "info": {
+                    "version": "0.10.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/intersection-observer@0.12.2/node_modules/intersection-observer",
+                "info": {
+                    "version": "0.12.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "styled-components",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/styled-components@5.2.1_2oj3wbqnneq3igq3g4m62mo7re/node_modules/styled-components",
+                "info": {
+                    "version": "5.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@sharpui/icon",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@sharpui+icon@1.1.19_rqi2fgfbmnmy373wbr4okrbwla/node_modules/@sharpui/icon",
+                "info": {
+                    "version": "1.1.19"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tslib",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/tslib@1.10.0/node_modules/tslib",
+                "info": {
+                    "version": "1.10.0"
+                }
+            },
+            {
+                "path": "../../node_modules/.pnpm/tslib@2.7.0/node_modules/tslib",
+                "info": {
+                    "version": "2.7.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "axios",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/axios@0.19.2/node_modules/axios",
+                "info": {
+                    "version": "0.19.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/kmijs",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@kmi+kmijs@1.4.1_5nxqiohhzjvm5bendb2tia66ui/node_modules/@kmi/kmijs",
+                "info": {
+                    "version": "1.4.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "scheduler",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/scheduler@0.18.0/node_modules/scheduler",
+                "info": {
+                    "version": "0.18.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "object-assign",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign",
+                "info": {
+                    "version": "4.1.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-error-boundary",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-error-boundary@4.0.13_react@16.12.0/node_modules/react-error-boundary",
+                "info": {
+                    "version": "4.0.13"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-lazyload-react",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+performance-lazyload-react@0.0.4_7lre6svei6ldbsvkukunzkfmqi/node_modules/@ad/performance-lazyload-react",
+                "info": {
+                    "version": "0.0.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "classnames",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/classnames@2.3.1/node_modules/classnames",
+                "info": {
+                    "version": "2.3.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "ahooks",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/ahooks@3.7.8_react@16.12.0/node_modules/ahooks",
+                "info": {
+                    "version": "3.7.8"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/web",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@react-spring+web@9.7.3_7lre6svei6ldbsvkukunzkfmqi/node_modules/@react-spring/web",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "process",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/process@0.11.10/node_modules/process",
+                "info": {
+                    "version": "0.11.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "uuid",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/uuid@8.3.2/node_modules/uuid",
+                "info": {
+                    "version": "8.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-is",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-is@16.12.0/node_modules/react-is",
+                "info": {
+                    "version": "16.12.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "shallowequal",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/shallowequal@1.1.0/node_modules/shallowequal",
+                "info": {
+                    "version": "1.1.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "hoist-non-react-statics",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/hoist-non-react-statics@3.3.2/node_modules/hoist-non-react-statics",
+                "info": {
+                    "version": "3.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/stylis",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@emotion+stylis@0.8.5/node_modules/@emotion/stylis",
+                "info": {
+                    "version": "0.8.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/unitless",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@emotion+unitless@0.7.5/node_modules/@emotion/unitless",
+                "info": {
+                    "version": "0.7.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/is-prop-valid",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@emotion+is-prop-valid@0.8.8/node_modules/@emotion/is-prop-valid",
+                "info": {
+                    "version": "0.8.8"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/weblogger",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks+weblogger@3.10.42_@yoda+bridge@2.0.13/node_modules/@ks/weblogger",
+                "info": {
+                    "version": "3.10.42"
+                }
+            }
+        ]
+    },
+    {
+        "name": "ssr-window",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/ssr-window@3.0.0-alpha.4/node_modules/ssr-window",
+                "info": {
+                    "version": "3.0.0-alpha.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-core",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-core@1.2.14_4gsh5yr2tdnzsqvhb522ddj4ru/node_modules/@ks-radar/radar-core",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-error-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-error-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-error-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-navigation-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-navigation-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-navigation-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-api-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-api-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-api-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-resource-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-resource-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-resource-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-event-collect",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-event-collect@1.2.14_7hb7xlvddyxbzis74em3vatvsu/node_modules/@ks-radar/radar-event-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/core",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@react-spring+core@9.7.3_react@16.12.0/node_modules/@react-spring/core",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/shared",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@react-spring+shared@9.7.3_react@16.12.0/node_modules/@react-spring/shared",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/animated",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@react-spring+animated@9.7.3_react@16.12.0/node_modules/@react-spring/animated",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "dom7",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/dom7@3.0.0-alpha.9/node_modules/dom7",
+                "info": {
+                    "version": "3.0.0-alpha.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@emotion/memoize",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@emotion+memoize@0.7.4/node_modules/@emotion/memoize",
+                "info": {
+                    "version": "0.7.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "css-loader",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/css-loader@6.7.1/node_modules/css-loader",
+                "info": {
+                    "version": "6.7.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-util",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ks-radar+radar-util@1.2.14/node_modules/@ks-radar/radar-util",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/performance-lazyload-shared",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@ad+performance-lazyload-shared@0.0.2/node_modules/@ad/performance-lazyload-shared",
+                "info": {
+                    "version": "0.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "screenfull",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/screenfull@5.2.0/node_modules/screenfull",
+                "info": {
+                    "version": "5.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "resize-observer-polyfill",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/resize-observer-polyfill@1.5.1/node_modules/resize-observer-polyfill",
+                "info": {
+                    "version": "1.5.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "react-use-gesture",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/react-use-gesture@5.2.4_react@16.12.0/node_modules/react-use-gesture",
+                "info": {
+                    "version": "5.2.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@react-spring/types",
+        "instances": [
+            {
+                "path": "../../node_modules/.pnpm/@react-spring+types@9.7.3/node_modules/@react-spring/types",
+                "info": {
+                    "version": "9.7.3"
+                }
+            }
+        ]
+    }
+]

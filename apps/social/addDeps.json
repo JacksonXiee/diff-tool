@@ -1,0 +1,3 @@
+{
+  "@kmi/preset-social-react": "link:../../packages/kmi-preset-social-react"
+}

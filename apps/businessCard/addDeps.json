@@ -1,0 +1,6 @@
+{
+  "@kmi/preset-social-react": {
+    "specifier": "workspace:^1.0.0",
+    "version": "link:../../packages/kmi-preset-social-react"
+  }
+}

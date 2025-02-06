@@ -1,0 +1,16 @@
+{
+  "@firefly/firefly-sdk": "0.4.4 to 0.2.18",
+  "@kmi/vue2": "1.4.0(lodash@4.17.21)(prettier@1.19.1)(pug@2.0.4)(stylus@0.61.0)(vue-router@3.6.5)(vue@2.7.16) to 1.4.0",
+  "@ks/platform-ui": "0.1.88(vue-router@3.6.5)(vue@2.7.16) to 0.1.88",
+  "element-ui": "2.15.14(vue@2.7.16) to 2.15.14",
+  "vue-router": "3.6.5(vue@2.7.16) to 3.6.5",
+  "vue-rx": "6.2.0(rxjs@6.6.7) to 6.2.0",
+  "vue2-datepicker": "2.13.4(vue@2.7.16) to 2.13.4",
+  "@babel/eslint-parser": "7.23.10(eslint@6.8.0) to 7.23.10",
+  "eslint-config-prettier": "6.15.0(eslint@6.8.0) to 6.15.0",
+  "eslint-config-standard": "10.2.1(eslint-plugin-import@2.29.1)(eslint-plugin-node@5.2.1)(eslint-plugin-promise@3.8.0)(eslint-plugin-standard@3.1.0)(eslint@6.8.0) to 10.2.1",
+  "eslint-plugin-import": "2.29.1(eslint@6.8.0) to 2.29.1",
+  "eslint-plugin-node": "5.2.1(eslint@6.8.0) to 5.2.1",
+  "eslint-plugin-standard": "3.1.0(eslint@6.8.0) to 3.1.0",
+  "eslint-plugin-vue": "6.2.2(eslint@6.8.0) to 6.2.2"
+}

@@ -1,0 +1,1088 @@
+[
+    {
+        "name": "kuaishou-frontend-ad-webapp",
+        "instances": [
+            {
+                "path": "",
+                "info": {
+                    "version": "1.0.1-rc.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/sharp-comp-nav-bar",
+        "instances": [
+            {
+                "path": "node_modules/@ks/sharp-comp-nav-bar",
+                "info": {
+                    "version": "2.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/kcfe-vue-components",
+        "instances": [
+            {
+                "path": "node_modules/@ad/kcfe-vue-components",
+                "info": {
+                    "version": "1.1.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue2-touch-events",
+        "instances": [
+            {
+                "path": "node_modules/vue2-touch-events",
+                "info": {
+                    "version": "2.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-clip",
+        "instances": [
+            {
+                "path": "node_modules/vue-clip",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/heat-map-sdk",
+        "instances": [
+            {
+                "path": "node_modules/@ks/heat-map-sdk",
+                "info": {
+                    "version": "0.1.8-alpha.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue",
+        "instances": [
+            {
+                "path": "node_modules/vue",
+                "info": {
+                    "version": "2.7.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "intersection-observer",
+        "instances": [
+            {
+                "path": "node_modules/intersection-observer",
+                "info": {
+                    "version": "0.5.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "regenerator-runtime",
+        "instances": [
+            {
+                "path": "node_modules/regenerator-runtime",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-loader",
+        "instances": [
+            {
+                "path": "node_modules/vue-loader",
+                "info": {
+                    "version": "15.10.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@babel/runtime",
+        "instances": [
+            {
+                "path": "node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.21.0"
+                }
+            },
+            {
+                "path": "node_modules/@kmi/kmijs/node_modules/@babel/runtime",
+                "info": {
+                    "version": "7.20.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/sharp-ui",
+        "instances": [
+            {
+                "path": "node_modules/@ks/sharp-ui",
+                "info": {
+                    "version": "0.16.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "moment",
+        "instances": [
+            {
+                "path": "node_modules/moment",
+                "info": {
+                    "version": "2.27.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vuex",
+        "instances": [
+            {
+                "path": "node_modules/vuex",
+                "info": {
+                    "version": "3.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vuex-crossviews-shared",
+        "instances": [
+            {
+                "path": "node_modules/vuex-crossviews-shared",
+                "info": {
+                    "version": "1.1.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/ad-client-log",
+        "instances": [
+            {
+                "path": "node_modules/@ad/ad-client-log",
+                "info": {
+                    "version": "0.0.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/ad-front-trace",
+        "instances": [
+            {
+                "path": "node_modules/@ad/ad-front-trace",
+                "info": {
+                    "version": "1.0.9"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/kmijs",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/kmijs",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-router",
+        "instances": [
+            {
+                "path": "node_modules/vue-router",
+                "info": {
+                    "version": "3.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "core-js",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/preset-uni/node_modules/core-js",
+                "info": {
+                    "version": "3.28.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-runtime-helpers",
+        "instances": [
+            {
+                "path": "node_modules/vue-runtime-helpers",
+                "info": {
+                    "version": "1.1.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "lodash",
+        "instances": [
+            {
+                "path": "node_modules/lodash",
+                "info": {
+                    "version": "4.17.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "querystring",
+        "instances": [
+            {
+                "path": "node_modules/querystring",
+                "info": {
+                    "version": "0.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "uuid",
+        "instances": [
+            {
+                "path": "node_modules/@ad/ad-front-trace/node_modules/uuid",
+                "info": {
+                    "version": "8.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@yoda/bridge",
+        "instances": [
+            {
+                "path": "node_modules/@yoda/bridge",
+                "info": {
+                    "version": "2.0.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kmi/renderer-vue2",
+        "instances": [
+            {
+                "path": "node_modules/@kmi/renderer-vue2",
+                "info": {
+                    "version": "1.4.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ad/kcmetric-web",
+        "instances": [
+            {
+                "path": "node_modules/@ad/kcmetric-web",
+                "info": {
+                    "version": "0.0.30"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/weblogger",
+        "instances": [
+            {
+                "path": "node_modules/@ks/weblogger",
+                "info": {
+                    "version": "3.10.35"
+                }
+            }
+        ]
+    },
+    {
+        "name": "process",
+        "instances": [
+            {
+                "path": "node_modules/process",
+                "info": {
+                    "version": "0.11.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-core",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-core",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-navigation-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-navigation-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-api-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-api-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-resource-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-resource-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-error-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-error-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-event-collect",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-event-collect",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "driver.js",
+        "instances": [
+            {
+                "path": "node_modules/driver.js",
+                "info": {
+                    "version": "0.9.8"
+                }
+            }
+        ]
+    },
+    {
+        "name": "swiper",
+        "instances": [
+            {
+                "path": "node_modules/swiper",
+                "info": {
+                    "version": "4.5.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-awesome-swiper",
+        "instances": [
+            {
+                "path": "node_modules/vue-awesome-swiper",
+                "info": {
+                    "version": "3.1.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "stickyfilljs",
+        "instances": [
+            {
+                "path": "node_modules/stickyfilljs",
+                "info": {
+                    "version": "2.1.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/share-launch-app",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share-launch-app",
+                "info": {
+                    "version": "0.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/share",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share",
+                "info": {
+                    "version": "2.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "qs",
+        "instances": [
+            {
+                "path": "node_modules/qs",
+                "info": {
+                    "version": "6.11.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@lux/sharp-ui-plus",
+        "instances": [
+            {
+                "path": "node_modules/@lux/sharp-ui-plus",
+                "info": {
+                    "version": "0.0.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "axios",
+        "instances": [
+            {
+                "path": "node_modules/axios",
+                "info": {
+                    "version": "0.21.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "better-scroll",
+        "instances": [
+            {
+                "path": "node_modules/better-scroll",
+                "info": {
+                    "version": "1.15.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-radar/radar-util",
+        "instances": [
+            {
+                "path": "node_modules/@ks-radar/radar-util",
+                "info": {
+                    "version": "1.2.14"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@firefly/firefly-sdk",
+        "instances": [
+            {
+                "path": "node_modules/@firefly/firefly-sdk",
+                "info": {
+                    "version": "0.4.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "js-cookie",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share-launch-app/node_modules/js-cookie",
+                "info": {
+                    "version": "3.0.5"
+                }
+            },
+            {
+                "path": "node_modules/js-cookie",
+                "info": {
+                    "version": "2.2.1"
+                }
+            },
+            {
+                "path": "node_modules/@ks-share/launch-lib/node_modules/js-cookie",
+                "info": {
+                    "version": "3.0.5"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/share-utils",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share-utils",
+                "info": {
+                    "version": "0.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/web-util",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share-launch-app/node_modules/@ks/web-util",
+                "info": {
+                    "version": "2.1.21"
+                }
+            }
+        ]
+    },
+    {
+        "name": "url-polyfill",
+        "instances": [
+            {
+                "path": "node_modules/url-polyfill",
+                "info": {
+                    "version": "1.1.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "select",
+        "instances": [
+            {
+                "path": "node_modules/select",
+                "info": {
+                    "version": "1.1.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks/battle-sdk",
+        "instances": [
+            {
+                "path": "node_modules/@ks/battle-sdk",
+                "info": {
+                    "version": "0.0.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/launch-app",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/launch-app",
+                "info": {
+                    "version": "0.0.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/launch-lib",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/launch-lib",
+                "info": {
+                    "version": "0.0.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@ks-share/share-log",
+        "instances": [
+            {
+                "path": "node_modules/@ks-share/share-log",
+                "info": {
+                    "version": "0.0.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@kid/sharpui",
+        "instances": [
+            {
+                "path": "node_modules/@kid/sharpui",
+                "info": {
+                    "version": "0.0.68"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vue-demi",
+        "instances": [
+            {
+                "path": "node_modules/@lux/sharp-ui-plus/node_modules/vue-demi",
+                "info": {
+                    "version": "0.13.11"
+                }
+            },
+            {
+                "path": "node_modules/@mchart/mobile-vue/node_modules/vue-demi",
+                "info": {
+                    "version": "0.13.11"
+                }
+            }
+        ]
+    },
+    {
+        "name": "vant",
+        "instances": [
+            {
+                "path": "node_modules/vant",
+                "info": {
+                    "version": "2.13.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "url-parse",
+        "instances": [
+            {
+                "path": "node_modules/url-parse",
+                "info": {
+                    "version": "1.4.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "side-channel",
+        "instances": [
+            {
+                "path": "node_modules/side-channel",
+                "info": {
+                    "version": "1.0.6"
+                }
+            }
+        ]
+    },
+    {
+        "name": "crypto-js",
+        "instances": [
+            {
+                "path": "node_modules/crypto-js",
+                "info": {
+                    "version": "4.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "dayjs",
+        "instances": [
+            {
+                "path": "node_modules/dayjs",
+                "info": {
+                    "version": "1.11.12"
+                }
+            }
+        ]
+    },
+    {
+        "name": "call-bind",
+        "instances": [
+            {
+                "path": "node_modules/call-bind",
+                "info": {
+                    "version": "1.0.7"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-errors",
+        "instances": [
+            {
+                "path": "node_modules/es-errors",
+                "info": {
+                    "version": "1.3.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "requires-port",
+        "instances": [
+            {
+                "path": "node_modules/requires-port",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "querystringify",
+        "instances": [
+            {
+                "path": "node_modules/querystringify",
+                "info": {
+                    "version": "2.2.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "get-intrinsic",
+        "instances": [
+            {
+                "path": "node_modules/get-intrinsic",
+                "info": {
+                    "version": "1.2.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "object-inspect",
+        "instances": [
+            {
+                "path": "node_modules/object-inspect",
+                "info": {
+                    "version": "1.13.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@mchart/mobile-vue",
+        "instances": [
+            {
+                "path": "node_modules/@mchart/mobile-vue",
+                "info": {
+                    "version": "0.1.10"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@vue/babel-helper-vue-jsx-merge-props",
+        "instances": [
+            {
+                "path": "node_modules/@vue/babel-helper-vue-jsx-merge-props",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "echarts",
+        "instances": [
+            {
+                "path": "node_modules/echarts",
+                "info": {
+                    "version": "4.9.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-symbols",
+        "instances": [
+            {
+                "path": "node_modules/has-symbols",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-proto",
+        "instances": [
+            {
+                "path": "node_modules/has-proto",
+                "info": {
+                    "version": "1.0.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "hasown",
+        "instances": [
+            {
+                "path": "node_modules/hasown",
+                "info": {
+                    "version": "2.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "function-bind",
+        "instances": [
+            {
+                "path": "node_modules/function-bind",
+                "info": {
+                    "version": "1.1.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "array-shuffle",
+        "instances": [
+            {
+                "path": "node_modules/array-shuffle",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "css-loader",
+        "instances": [
+            {
+                "path": "node_modules/css-loader",
+                "info": {
+                    "version": "6.7.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "zrender",
+        "instances": [
+            {
+                "path": "node_modules/zrender",
+                "info": {
+                    "version": "4.3.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "set-function-length",
+        "instances": [
+            {
+                "path": "node_modules/set-function-length",
+                "info": {
+                    "version": "1.2.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "es-define-property",
+        "instances": [
+            {
+                "path": "node_modules/es-define-property",
+                "info": {
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@mchart/f2",
+        "instances": [
+            {
+                "path": "node_modules/@mchart/f2",
+                "info": {
+                    "version": "4.1.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "define-data-property",
+        "instances": [
+            {
+                "path": "node_modules/define-data-property",
+                "info": {
+                    "version": "1.1.4"
+                }
+            }
+        ]
+    },
+    {
+        "name": "has-property-descriptors",
+        "instances": [
+            {
+                "path": "node_modules/has-property-descriptors",
+                "info": {
+                    "version": "1.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "gopd",
+        "instances": [
+            {
+                "path": "node_modules/gopd",
+                "info": {
+                    "version": "1.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@vant/popperjs",
+        "instances": [
+            {
+                "path": "node_modules/@vant/popperjs",
+                "info": {
+                    "version": "1.3.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@antv/util",
+        "instances": [
+            {
+                "path": "node_modules/@antv/util",
+                "info": {
+                    "version": "2.0.9"
+                }
+            },
+            {
+                "path": "node_modules/@antv/adjust/node_modules/@antv/util",
+                "info": {
+                    "version": "1.3.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@antv/data-set",
+        "instances": [
+            {
+                "path": "node_modules/@antv/data-set",
+                "info": {
+                    "version": "0.10.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@antv/adjust",
+        "instances": [
+            {
+                "path": "node_modules/@antv/adjust",
+                "info": {
+                    "version": "0.1.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "topojson",
+        "instances": [
+            {
+                "path": "node_modules/topojson",
+                "info": {
+                    "version": "3.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "@antv/scale",
+        "instances": [
+            {
+                "path": "node_modules/@antv/scale",
+                "info": {
+                    "version": "0.3.3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "topojson-client",
+        "instances": [
+            {
+                "path": "node_modules/topojson/node_modules/topojson-client",
+                "info": {
+                    "version": "3.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "topojson-server",
+        "instances": [
+            {
+                "path": "node_modules/topojson/node_modules/topojson-server",
+                "info": {
+                    "version": "3.0.0"
+                }
+            }
+        ]
+    },
+    {
+        "name": "topojson-simplify",
+        "instances": [
+            {
+                "path": "node_modules/topojson/node_modules/topojson-simplify",
+                "info": {
+                    "version": "3.0.2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "tslib",
+        "instances": [
+            {
+                "path": "node_modules/@antv/scale/node_modules/tslib",
+                "info": {
+                    "version": "2.0.1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "fecha",
+        "instances": [
+            {
+                "path": "node_modules/fecha",
+                "info": {
+                    "version": "4.2.0"
+                }
+            }
+        ]
+    }
+]
