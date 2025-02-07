@@ -1,5 +1,5 @@
 // 需要diff的项目列表 
-const projects = ['build/agent','build/mcn','build/webappNew','build/webapp','build/social','build/businessCard','build/operation'];
+const projects = ['build/agent','build/mcn'];
 
 projects.forEach((project) => {
   // 1、输入：构建产物1、构建产物2

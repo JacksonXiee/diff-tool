@@ -1,13 +1,21 @@
 const yaml = require("js-yaml");
 const fs = require("fs");
 
-const apps = ['apps/businessCard','apps/operation','apps/webapp','apps/webappNew']
 
-const monoYamlRaw = fs.readFileSync("../kuaishou-frontend-ad-social/pnpm-lock.yaml", "utf8");
+//Monorepo仓库名
+const monoRepName = "monoTest";
+
+//Monorepo仓库lock文件相对路径
+const lockFilePath = `../${monoRepName}/pnpm-lock.yaml`;
+
+//待迁移应用
+const apps = ['apps/agent','apps/mcn']
+
+const monoYamlRaw = fs.readFileSync(lockFilePath, "utf8");
 const mono = yaml.load(monoYamlRaw);
 
 const monoReps = apps.map(app=>mono.importers[app])
-const jsons = apps.map(app=>require(`../kuaishou-frontend-ad-social/${app}/package-lock.json`))
+const jsons = apps.map(app=>require(`../${monoRepName}/${app}/package-lock.json`))
 
 for(let i=0;i<monoReps.length;i++){
   const monoRep = monoReps[i];
@@ -89,7 +97,8 @@ function diffDepsForJson(newRep, oldRep) {
       //该依赖在新仓库里存在，在旧仓库的lock文件里没有
       add[dep.name] = dep.version;
     } else {
-      const newVersion = getVersion(dep.version.version);
+      // const newVersion = getVersion(dep.version.version);
+      const newVersion = getVersion(dep.version);
       const oldVersion = findDep.version;
       if (oldVersion !== newVersion) {
         //该依赖版本有不同
